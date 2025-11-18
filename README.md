@@ -2,8 +2,17 @@
 
 This GitHub repo has information for my LinkedIn.
 
-This GitHub repo is a strict subset of the files in my other GitHub repo:
+[+]
+
+This GitHub repo is a strict subset of the files in my other GitHub repo created to showcase information for LinkedIn:
+ https://github.com/delphicventurescode/AM1__AnandManikutty__profile__public
  
+[+]
+
+Please contents of the README.md file created for the other repository below (README.md as of November 18 2025).
+
+This GitHib repo has a subset of the information described here.
+
 [+]
 
 # Anand Manikutty — Professional & Research Portfolio
