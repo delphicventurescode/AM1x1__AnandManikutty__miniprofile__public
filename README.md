@@ -9,9 +9,9 @@ This GitHub repo is a strict subset of the files in my other GitHub repo created
  
 [+]
 
-Please contents of the README.md file created for the other repository below (README.md as of November 18 2025).
+Please review contents of the README.md file created for the other repository below (README.md as of November 18 2025).
 
-This GitHib repo has a subset of the information described here.
+This GitHib repo has a subset of the information described here in this README.md file.
 
 [+]
 
